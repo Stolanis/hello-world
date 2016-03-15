@@ -1,2 +1,2 @@
 # hello-world
-Tutorial test thingy.
+Tutorial test thing to help me learn GitHub.
